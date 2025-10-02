@@ -47,6 +47,8 @@ När ```Emmet Abbrivation``` visas, tryck [tab] för att expandera. Följande ko
 
 Ange en lämplig rubrik inom ```<h1>...</h1>```
 
+Hitta Emmet Lathund https://docs.emmet.io/cheat-sheet/
+
 ## Lorem-tillägg
 
 På nästa rad skriv...
