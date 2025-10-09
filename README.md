@@ -4,7 +4,7 @@ Målet här är att påvisa tillvägagångssättet och att skapa en enkel webbsi
 
 ## Förutsättningar
 
-I denna anvisning används följande extensions. Kontrollera att dessa är installerade annars installera dem.
+I denna anvisning används följande extensions i VS Code. Kontrollera att dessa är installerade annars installera dem.
 
 * Live server (Ritwick Dey)
 * Lorem Ipsum (Daniel Imms)
